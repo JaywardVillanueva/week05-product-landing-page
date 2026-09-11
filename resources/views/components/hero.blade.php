@@ -5,7 +5,7 @@
     <div class="max-w-6xl mx-auto px-6 py-20 grid md:grid-cols-2 gap-12 items-center relative">
         <div>
             <span class="inline-flex items-center gap-2 text-sm font-medium text-raka-red bg-raka-red/10 px-3 py-1 rounded-full">
-                📍 Barangay [Your Barangay], [Your City]
+                📍 Barangay Dos, Pagsanjan
             </span>
 
             <h1 class="mt-6 text-4xl md:text-5xl font-bold leading-tight text-raka-dark">

@@ -18,7 +18,7 @@
         <div>
             <p class="font-semibold text-white mb-3">Contact</p>
             <ul class="space-y-2 text-sm text-white/60">
-                <li>Barangay [Your Barangay], [Your City]</li>
+                <li>Barangay Dos, Pagsanjan</li>
                 <li>Open 6:00 AM – 10:00 PM Daily</li>
                 <li>0917-XXX-XXXX</li>
             </ul>
